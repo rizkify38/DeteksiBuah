@@ -1,4 +1,3 @@
-"# dtbuah" 
 # DeteksiBuah
 # DeteksiBuah
 # DeteksiBuah
